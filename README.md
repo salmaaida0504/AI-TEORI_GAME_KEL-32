@@ -1,4 +1,4 @@
-#KEL 32 KECERDASAN BUATAN TEORI
+# KEL 32 KECERDASAN BUATAN TEORI
 <h2>Anggota Kelompok</h2>
 <p>
   <ul>
